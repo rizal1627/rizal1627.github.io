@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
+
+* {
+	font-family: Balsamiq sans;
+}
+
+#hamburger {
+	color: white;
+	opacity: 100px;
+	background-color: violet;
+}
+
+#navbarDefault {
+	opacity: -100px;
+}
+
+#mainNav {
+	background-color: black;
+	color: white;
+}
+
+/* home */
+.home {
+	height: 650px;
+	text-align: center;
+	background-image: url('img/overlay-bg.jpg');
+	background-size: auto;
+	opacity: 50px;
+}
+
+.about-img img {
+	height: 100px;
+	width: 100px;
+	size: 0em;
+}
+
+.animate__animated {
+	padding-top: 100px;
+	padding-bottom: 30px;
+}
+
+/* about */
+.about {
+	height: 700px;
+	padding-top: 70px;
+	text-align: center;
+	background-color: rgb(236, 234, 234);
+}
+
+/* work */
+.work {
+	height: 700px;
+	padding-top: 70px;
+	text-align: center;
+}
+
+.skill {
+	height: 650px;
+	padding-top: 70px;
+	background-color: rgb(236, 234, 234);
+}
+
+.contact {
+	height: 650px;
+	padding-top: 70px;
+}
+
+.footer {
+	padding: 15px;
+	background-color: black;
+	text-align: center;
+	color: white;
+}
