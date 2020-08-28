@@ -673,8 +673,8 @@ a:hover {
 
 
 .about-mf .box-shadow-full {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
 }
 
 .about-mf .about-img {
@@ -711,7 +711,7 @@ a:hover {
   background-color: #fff;
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 12rem;
 }
 
 .service-box:hover .ico-circle {
@@ -749,10 +749,11 @@ a:hover {
 .counter-box {
   color: #fff;
   text-align: center;
+
 }
 
 .counter-ico {
-  margin-bottom: 1rem;
+  margin-bottom: 5rem;
 }
 
 .counter-ico .ico-circle {
@@ -827,7 +828,7 @@ a:hover {
 //--//-->   TESTIMONIALS
 ======================================*/
 
-.testimonials .owl-carousel .owl-item img {
+/*.testimonials .owl-carousel .owl-item img {
   width: auto;
 }
 
@@ -863,13 +864,13 @@ a:hover {
   margin: 0 auto;
   border-radius: 50%;
   line-height: 1.6;
-}
+}*/
 
 /*======================================
 //--//-->   BLOG
 ======================================*/
 
-.card-blog .card-body {
+/*.card-blog .card-body {
   position: relative;
 }
 
@@ -918,13 +919,13 @@ a:hover {
   color: #4e4e4e;
   display: inline-block;
   float: right;
-}
+}*/
 
 /*======================================
 //--//-->   BLOG-SINGLE
 ======================================*/
 
-.post-box,
+/*.post-box,
 .form-comments,
 .box-comments,
 .widget-sidebar {
@@ -963,11 +964,11 @@ a:hover {
   border-left: 4px solid #0078ff;
   padding: 18px;
   font-style: italic;
-}
+}*/
 
 /*------/ Comments /------*/
 
-.box-comments .list-comments li {
+/*.box-comments .list-comments li {
   padding-bottom: 40px;
 }
 
@@ -1003,10 +1004,10 @@ a:hover {
 .box-comments .comment-children {
   margin-left: 40px;
 }
-
+*/
 /*------/ Sidebar /------*/
 
-.widget-sidebar .sidebar-title {
+/*.widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
   border-left: 5px solid #0078ff;
@@ -1054,14 +1055,14 @@ a:hover {
 
 .widget-tags ul li a {
   color: #fff;
-}
+}*/
 
 /*======================================
 //--//-->   CONTACT
 ======================================*/
 
 .footer-paralax {
-  padding: 4rem 0 0 0;
+  padding: 0;
 }
 
 .contact-mf {
