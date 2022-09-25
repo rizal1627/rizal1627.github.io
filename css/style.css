@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #494949;
 }
 
 .overlay-mf {
@@ -716,9 +716,9 @@ a:hover {
 
 .service-box:hover .ico-circle {
   transition: all 100ms ease;
-  color: #fff;
-  background-color: rgb(255, 0, 0);
-  box-shadow: 0 0 0 10px #353535;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 193, 193);
+  box-shadow: 0 0 0 10px #fd4444;
 }
 
 .service-box .service-ico {
@@ -776,7 +776,7 @@ a:hover {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
 }
 
 .work-box:hover img {
