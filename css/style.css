@@ -717,8 +717,8 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 100ms ease;
   color: #fff;
-  background-color: red;
-  box-shadow: 0 0 0 30px #cde1f8;
+  background-color: rgb(255, 0, 0);
+  box-shadow: 0 0 0 10px #353535;
 }
 
 .service-box .service-ico {
